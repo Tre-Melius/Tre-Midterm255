@@ -1,0 +1,12 @@
+F:\midterm\Tre-Midterm255\Midterm\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Midterm.csproj.AssemblyReference.cache
+F:\midterm\Tre-Midterm255\Midterm\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauiimage.inputs
+F:\midterm\Tre-Midterm255\Midterm\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauifont.inputs
+F:\midterm\Tre-Midterm255\Midterm\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauisplash.inputs
+F:\midterm\Tre-Midterm255\Midterm\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauimanifest.stamp
+F:\midterm\Tre-Midterm255\Midterm\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.g.i.cs
+F:\midterm\Tre-Midterm255\Midterm\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.g.cs
+F:\midterm\Tre-Midterm255\Midterm\obj\Debug\net10.0-windows10.0.19041.0\win-x64\XamlTypeInfo.g.cs
+F:\midterm\Tre-Midterm255\Midterm\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.xaml
+F:\midterm\Tre-Midterm255\Midterm\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.xbf
+F:\midterm\Tre-Midterm255\Midterm\obj\Debug\net10.0-windows10.0.19041.0\win-x64\XamlSaveStateFile.xml
+F:\midterm\Tre-Midterm255\Midterm\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Midterm.GeneratedMSBuildEditorConfig.editorconfig

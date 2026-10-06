@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Midterm.Tales_of_Xillia"
+             Title="Tales_of_Xillia">
+    <VerticalStackLayout>
+        <Grid
+            RowDefinitions="Auto, Auto, Auto"
+            ColumnDefinitions="*, *">
+            <Label
+                Grid.Row="0"
+                Grid.ColumnSpan="2"
+                Text="Tales of Xillia"
+                FontSize="24"
+                FontAttributes="Bold"
+                HorizontalOptions="Center" />
+            <Image
+                Grid.Row="1"
+                Grid.ColumnSpan="2"
+                Source="tales_of_xillia.jpg"
+                Aspect="AspectFit" />
+            <Label
+                Grid.Row="2"
+                Grid.ColumnSpan="2"
+                Text="Tales of Xillia is a role-playing video game developed and published by Bandai Namco Games. It is the thirteenth main entry in the Tales series and was released on September 7, 2011."
+                FontSize="16"
+                HorizontalOptions="Center" />
+        </Grid>
+    </VerticalStackLayout>
+</ContentPage>
