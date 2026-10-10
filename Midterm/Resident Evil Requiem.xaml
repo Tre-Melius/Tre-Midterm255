@@ -4,27 +4,42 @@
              x:Class="Midterm.Resident_Evil_Requiem"
              Title="Resident_Evil_Requiem">
     <VerticalStackLayout>
-        <Grid
-            RowDefinitions="Auto, Auto, Auto"
-            ColumnDefinitions="*, *">
-            <Label
-                Grid.Row="0"
-                Grid.ColumnSpan="2"
-                Text="Resident Evil Requiem"
-                FontSize="24"
-                FontAttributes="Bold"
-                HorizontalOptions="Center" />
-            <Image
-                Grid.Row="1"
-                Grid.ColumnSpan="2"
-                Source="requiem.jpg"
-                Aspect="AspectFit" />
-            <Label
-                Grid.Row="2"
-                Grid.ColumnSpan="2"
-                Text="Resident Evil Requiem is a survival horror film directed by Paul W.S. Anderson. It is the fourth installment in the Resident Evil film series and was released on September 14, 2017."
-                FontSize="16"
-                HorizontalOptions="Center" />
-        </Grid>
+        <ScrollView>
+            <Grid
+                RowDefinitions="Auto, Auto, Auto, Auto"
+                ColumnDefinitions="*, *">
+                <Label
+                    Grid.Row="0"
+                    Grid.ColumnSpan="2"
+                    Text="Resident Evil Requiem"
+                    FontSize="24"
+                    FontAttributes="Bold"
+                    HorizontalOptions="Center" />
+                <Image
+                    Grid.Row="1"
+                    Grid.ColumnSpan="2"
+                    Source="requiem.jpg"
+                    HeightRequest="200"
+                    Aspect="AspectFit" />
+                <Label
+                    Grid.Row="2"
+                    Grid.ColumnSpan="2"
+                    Text="Resident Evil Requiem is a survival horror film directed by Paul W.S. Anderson. It is the fourth installment in the Resident Evil film series and was released on September 14, 2017."
+                    FontSize="16"
+                    HorizontalOptions="Center" />
+                <Label x:Name="ResultLabel"
+                   IsVisible="False"
+                   FontSize="16"
+                   FontAttributes="Bold"
+                   TextColor="ForestGreen"
+                   HorizontalOptions="Center" />
+                <Button Text="Add to Cart"
+                    Grid.Row="3"
+                    FontSize="20"
+                    HeightRequest="56"
+                    BackgroundColor="#512BD4"
+                    Clicked="OnAddToCartClicked" />
+            </Grid>
+        </ScrollView>
     </VerticalStackLayout>
 </ContentPage>

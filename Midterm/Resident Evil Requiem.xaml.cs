@@ -6,4 +6,9 @@ public partial class Resident_Evil_Requiem : ContentPage
 	{
 		InitializeComponent();
 	}
+    private void OnAddToCartClicked(object sender, EventArgs e)
+    {
+        ResultLabel.Text = "Added to cart!";
+        ResultLabel.IsVisible = true;
+    }
 }

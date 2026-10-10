@@ -6,9 +6,15 @@
     xmlns:local="clr-namespace:Midterm"
     Title="Midterm">
 
-    <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
+    <TabBar>
+        <ShellContent
+            Title="Shop"
+            ContentTemplate="{DataTemplate local:MainPage}"
+            Route="MainPage" />
+        <ShellContent
+            Title="Checkout"
+            ContentTemplate="{DataTemplate local:Checkoutpage}"
+            Route="Checkoutpage" />
+    </TabBar>
 
 </Shell>

@@ -5,7 +5,7 @@
              Title="Dragon_Age_Origins">
     <VerticalStackLayout>
         <Grid
-            RowDefinitions="Auto, Auto, Auto"
+            RowDefinitions="Auto, Auto, Auto, Auto, Auto"
             ColumnDefinitions="*, *">
             <Label
                 Grid.Row="0"
@@ -25,6 +25,16 @@
                 Text="Dragon Age Origins is an action role-playing video game developed by BioWare and published by EA Games. It is the first installment in the Dragon Age series and was released on October 6, 2011."
                 FontSize="16"
                 HorizontalOptions="Center" />
+            <Label Text = "Out of Stock" FontSize="16" FontAttributes="Bold" TextColor="Red" Grid.Row="3" Grid.ColumnSpan="2" HorizontalOptions="Center" />
+
+
+            <Button Text = "Out of Stock"
+                Grid.Row="4"
+                FontSize="20"
+                HeightRequest="56"
+                BackgroundColor="Gray"
+                TextColor="White"
+                IsEnabled="False" />
         </Grid>
     </VerticalStackLayout>
 </ContentPage>
