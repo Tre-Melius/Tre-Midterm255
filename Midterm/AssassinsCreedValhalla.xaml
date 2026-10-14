@@ -4,12 +4,7 @@
              x:Class="Midterm.AssassinsCreedValhalla"
              Title="AssassinsCreedValhalla">
     <VerticalStackLayout>
-        <Grid
-            RowDefinitions="Auto, Auto, Auto, Auto, Auto"
-            ColumnDefinitions="*, *">
-            <Label
-                Grid.Row="0"
-                Grid.ColumnSpan="2"
+        <Label
                 Text="Assassins Creed Valhalla"
                 FontSize="24"
                 FontAttributes="Bold"
@@ -19,18 +14,18 @@
                    FontAttributes="Bold"
                    TextColor="ForestGreen" />
             <Image
-                Grid.Row="1"
-                Grid.ColumnSpan="2"
-                Source="assassins_creed_valhalla.jpg"
+                Source="assassinscreedvalhalla.jpg"
+                HeightRequest="200"
                 Aspect="AspectFit" />
             <Label
-                Grid.Row="2"
-                Grid.ColumnSpan="2"
                 Text="Assassin's Creed Valhalla is an action role-playing video game developed by Ubisoft Montreal and published by Ubisoft. It is the twelfth major installment in the Assassin's Creed series and was released on November 10, 2020."
                 FontSize="16"
                 HorizontalOptions="Center" />
-            <Button Text="Add to Cart"
-                    Grid.Row="3"
+            <Label
+                   Text="$59.99"
+                   FontSize="16"
+                   HorizontalOptions="Center" />
+        <Button Text="Add to Cart"
                     FontSize="20"
                     HeightRequest="56"
                     BackgroundColor="#512BD4"
@@ -41,6 +36,6 @@
                    FontAttributes="Bold"
                    TextColor="ForestGreen"
                    HorizontalOptions="Center" />
-        </Grid>
+
     </VerticalStackLayout>
 </ContentPage>

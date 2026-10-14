@@ -4,37 +4,35 @@
              x:Class="Midterm.Dragon_Age_Origins"
              Title="Dragon_Age_Origins">
     <VerticalStackLayout>
-        <Grid
-            RowDefinitions="Auto, Auto, Auto, Auto, Auto"
-            ColumnDefinitions="*, *">
-            <Label
-                Grid.Row="0"
-                Grid.ColumnSpan="2"
+        <Label
                 Text="Dragon Age Origins"
                 FontSize="24"
                 FontAttributes="Bold"
                 HorizontalOptions="Center" />
             <Image
-                Grid.Row="1"
-                Grid.ColumnSpan="2"
-                Source="dragon_age_origins.jpg"
+                Source="dragonageorigins.jpg"
+                HeightRequest="200"
                 Aspect="AspectFit" />
             <Label
-                Grid.Row="2"
-                Grid.ColumnSpan="2"
                 Text="Dragon Age Origins is an action role-playing video game developed by BioWare and published by EA Games. It is the first installment in the Dragon Age series and was released on October 6, 2011."
                 FontSize="16"
                 HorizontalOptions="Center" />
-            <Label Text = "Out of Stock" FontSize="16" FontAttributes="Bold" TextColor="Red" Grid.Row="3" Grid.ColumnSpan="2" HorizontalOptions="Center" />
+            <Label
+                Text="$20.00"
+                FontSize="16"
+                HorizontalOptions="Center" />
+        <Label Text = "Out of Stock"
+                   FontSize="16"
+                   FontAttributes="Bold"
+                   TextColor="Red"
+                   HorizontalOptions="Center" />
 
 
             <Button Text = "Out of Stock"
-                Grid.Row="4"
                 FontSize="20"
                 HeightRequest="56"
                 BackgroundColor="Gray"
                 TextColor="White"
                 IsEnabled="False" />
-        </Grid>
     </VerticalStackLayout>
 </ContentPage>

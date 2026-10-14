@@ -4,12 +4,7 @@
              x:Class="Midterm.Tales_of_Xillia"
              Title="Tales_of_Xillia">
     <VerticalStackLayout>
-        <Grid
-            RowDefinitions="Auto, Auto, Auto, Auto"
-            ColumnDefinitions="*, *">
-            <Label
-                Grid.Row="0"
-                Grid.ColumnSpan="2"
+        <Label
                 Text="Tales of Xillia"
                 FontSize="24"
                 FontAttributes="Bold"
@@ -17,26 +12,28 @@
             <Image
                 Grid.Row="1"
                 Grid.ColumnSpan="2"
-                Source="tales_of_xillia.jpg"
+                Source="talesofxillia.jpg"
+                HeightRequest="200"
                 Aspect="AspectFit" />
             <Label
-                Grid.Row="2"
-                Grid.ColumnSpan="2"
                 Text="Tales of Xillia is a role-playing video game developed and published by Bandai Namco Games. It is the thirteenth main entry in the Tales series and was released on September 7, 2011."
                 FontSize="16"
                 HorizontalOptions="Center" />
-            <Label x:Name="ResultLabel"
+        <Label x:Name="ResultLabel"
                    IsVisible="False"
                    FontSize="16"
                    FontAttributes="Bold"
                    TextColor="ForestGreen"
                    HorizontalOptions="Center" />
-            <Button Text="Add to Cart"
-                Grid.Row="3"
+        <Label
+            Text="$19.99"
+            FontSize="16"
+            HorizontalOptions="Center" />
+        <Button Text="Add to Cart"
                 FontSize="20"
                 HeightRequest="56"
                 BackgroundColor="#512BD4"
-                Clicked="OnAddToCartClicked" />
-        </Grid>
+                Clicked="OnAddToCartClicked"
+                HorizontalOptions="Center"/>
     </VerticalStackLayout>
 </ContentPage>
