@@ -13,10 +13,12 @@ public partial class AssassinsCreedValhalla : ContentPage
             Name = "Assassin's Creed Valhalla",
             Description = "Explore the Viking world",
             ImageUrl = "assassins_creed_valhalla.jpg",
-            Price = 59.99m
+            Price = 59.99
         };
-        cart.CartItems.Add(game);
-        ResultLabel.Text = $"added to your cart.";
+        Cart.Names.Add(game.Name);
+        Cart.Quantities.Add(int.Parse(QuantityEntry.Text));
+        Cart.Price.Add(game.Price);
+        ResultLabel.Text = $"{QuantityEntry.Text} added to your cart.";
         ResultLabel.IsVisible = true;
     }
 }

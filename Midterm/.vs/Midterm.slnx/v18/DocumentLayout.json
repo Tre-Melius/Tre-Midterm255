@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "F:\\midterm\\Tre-Midterm255\\Midterm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09EFEF7E-5AD1-FC79-DDFF-23FB05F57F5D}|Midterm.csproj|f:\\midterm\\tre-midterm255\\midterm\\assassinscreedvalhalla.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{09EFEF7E-5AD1-FC79-DDFF-23FB05F57F5D}|Midterm.csproj|solutionrelative:assassinscreedvalhalla.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09EFEF7E-5AD1-FC79-DDFF-23FB05F57F5D}|Midterm.csproj|f:\\midterm\\tre-midterm255\\midterm\\assassinscreedvalhalla.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09EFEF7E-5AD1-FC79-DDFF-23FB05F57F5D}|Midterm.csproj|solutionrelative:assassinscreedvalhalla.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09EFEF7E-5AD1-FC79-DDFF-23FB05F57F5D}|Midterm.csproj|f:\\midterm\\tre-midterm255\\midterm\\tales of xillia.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{09EFEF7E-5AD1-FC79-DDFF-23FB05F57F5D}|Midterm.csproj|solutionrelative:tales of xillia.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09EFEF7E-5AD1-FC79-DDFF-23FB05F57F5D}|Midterm.csproj|f:\\midterm\\tre-midterm255\\midterm\\dragon age origins.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{09EFEF7E-5AD1-FC79-DDFF-23FB05F57F5D}|Midterm.csproj|solutionrelative:dragon age origins.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09EFEF7E-5AD1-FC79-DDFF-23FB05F57F5D}|Midterm.csproj|f:\\midterm\\tre-midterm255\\midterm\\tales of xillia.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{09EFEF7E-5AD1-FC79-DDFF-23FB05F57F5D}|Midterm.csproj|solutionrelative:tales of xillia.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{09EFEF7E-5AD1-FC79-DDFF-23FB05F57F5D}|Midterm.csproj|f:\\midterm\\tre-midterm255\\midterm\\assassinscreedvalhalla.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{09EFEF7E-5AD1-FC79-DDFF-23FB05F57F5D}|Midterm.csproj|solutionrelative:assassinscreedvalhalla.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09EFEF7E-5AD1-FC79-DDFF-23FB05F57F5D}|Midterm.csproj|f:\\midterm\\tre-midterm255\\midterm\\resident evil requiem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{09EFEF7E-5AD1-FC79-DDFF-23FB05F57F5D}|Midterm.csproj|solutionrelative:resident evil requiem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09EFEF7E-5AD1-FC79-DDFF-23FB05F57F5D}|Midterm.csproj|f:\\midterm\\tre-midterm255\\midterm\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09EFEF7E-5AD1-FC79-DDFF-23FB05F57F5D}|Midterm.csproj|solutionrelative:games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09EFEF7E-5AD1-FC79-DDFF-23FB05F57F5D}|Midterm.csproj|f:\\midterm\\tre-midterm255\\midterm\\assassinscreedvalhalla.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09EFEF7E-5AD1-FC79-DDFF-23FB05F57F5D}|Midterm.csproj|solutionrelative:assassinscreedvalhalla.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09EFEF7E-5AD1-FC79-DDFF-23FB05F57F5D}|Midterm.csproj|f:\\midterm\\tre-midterm255\\midterm\\resident evil requiem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 343,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,43 +90,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Resident Evil Requiem.xaml.cs",
-              "DocumentMoniker": "F:\\midterm\\Tre-Midterm255\\Midterm\\Resident Evil Requiem.xaml.cs",
-              "RelativeDocumentMoniker": "Resident Evil Requiem.xaml.cs",
-              "ToolTip": "F:\\midterm\\Tre-Midterm255\\Midterm\\Resident Evil Requiem.xaml.cs",
-              "RelativeToolTip": "Resident Evil Requiem.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Games.cs",
+              "DocumentMoniker": "F:\\midterm\\Tre-Midterm255\\Midterm\\Games.cs",
+              "RelativeDocumentMoniker": "Games.cs",
+              "ToolTip": "F:\\midterm\\Tre-Midterm255\\Midterm\\Games.cs",
+              "RelativeToolTip": "Games.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T00:14:54.097Z"
+              "WhenOpened": "2026-10-19T18:12:20.336Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Resident Evil Requiem.xaml",
               "DocumentMoniker": "F:\\midterm\\Tre-Midterm255\\Midterm\\Resident Evil Requiem.xaml",
               "RelativeDocumentMoniker": "Resident Evil Requiem.xaml",
               "ToolTip": "F:\\midterm\\Tre-Midterm255\\Midterm\\Resident Evil Requiem.xaml",
               "RelativeToolTip": "Resident Evil Requiem.xaml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAswBYAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-06T21:58:55.026Z"
+              "WhenOpened": "2026-10-06T21:58:55.026Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Dragon Age Origins.xaml",
               "DocumentMoniker": "F:\\midterm\\Tre-Midterm255\\Midterm\\Dragon Age Origins.xaml",
               "RelativeDocumentMoniker": "Dragon Age Origins.xaml",
               "ToolTip": "F:\\midterm\\Tre-Midterm255\\Midterm\\Dragon Age Origins.xaml",
               "RelativeToolTip": "Dragon Age Origins.xaml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-06T21:20:41.994Z"
+              "WhenOpened": "2026-10-06T21:20:41.994Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "AssassinsCreedValhalla.xaml.cs",
               "DocumentMoniker": "F:\\midterm\\Tre-Midterm255\\Midterm\\AssassinsCreedValhalla.xaml.cs",
               "RelativeDocumentMoniker": "AssassinsCreedValhalla.xaml.cs",
@@ -134,32 +141,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AssassinsCreedValhalla.xaml",
               "DocumentMoniker": "F:\\midterm\\Tre-Midterm255\\Midterm\\AssassinsCreedValhalla.xaml",
               "RelativeDocumentMoniker": "AssassinsCreedValhalla.xaml",
               "ToolTip": "F:\\midterm\\Tre-Midterm255\\Midterm\\AssassinsCreedValhalla.xaml",
               "RelativeToolTip": "AssassinsCreedValhalla.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwB8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-10-06T22:03:04.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Tales of Xillia.xaml",
               "DocumentMoniker": "F:\\midterm\\Tre-Midterm255\\Midterm\\Tales of Xillia.xaml",
               "RelativeDocumentMoniker": "Tales of Xillia.xaml",
               "ToolTip": "F:\\midterm\\Tre-Midterm255\\Midterm\\Tales of Xillia.xaml",
               "RelativeToolTip": "Tales of Xillia.xaml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-06T21:21:28.652Z"
+              "WhenOpened": "2026-10-06T21:21:28.652Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Resident Evil Requiem.xaml.cs",
+              "DocumentMoniker": "F:\\midterm\\Tre-Midterm255\\Midterm\\Resident Evil Requiem.xaml.cs",
+              "RelativeDocumentMoniker": "Resident Evil Requiem.xaml.cs",
+              "ToolTip": "F:\\midterm\\Tre-Midterm255\\Midterm\\Resident Evil Requiem.xaml.cs",
+              "RelativeToolTip": "Resident Evil Requiem.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T00:14:54.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Tales of Xillia.xaml.cs",
               "DocumentMoniker": "F:\\midterm\\Tre-Midterm255\\Midterm\\Tales of Xillia.xaml.cs",
               "RelativeDocumentMoniker": "Tales of Xillia.xaml.cs",
@@ -171,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Dragon Age Origins.xaml.cs",
               "DocumentMoniker": "F:\\midterm\\Tre-Midterm255\\Midterm\\Dragon Age Origins.xaml.cs",
               "RelativeDocumentMoniker": "Dragon Age Origins.xaml.cs",
@@ -183,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Checkoutpage.xaml",
               "DocumentMoniker": "F:\\midterm\\Tre-Midterm255\\Midterm\\Checkoutpage.xaml",
               "RelativeDocumentMoniker": "Checkoutpage.xaml",
@@ -195,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Shop.xaml",
               "DocumentMoniker": "F:\\midterm\\Tre-Midterm255\\Midterm\\Shop.xaml",
               "RelativeDocumentMoniker": "Shop.xaml",
@@ -207,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "F:\\midterm\\Tre-Midterm255\\Midterm\\MainPage.xaml",
               "RelativeDocumentMoniker": "MainPage.xaml",
@@ -219,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "F:\\midterm\\Tre-Midterm255\\Midterm\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MainPage.xaml.cs",
@@ -231,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Shop.xaml.cs",
               "DocumentMoniker": "F:\\midterm\\Tre-Midterm255\\Midterm\\Shop.xaml.cs",
               "RelativeDocumentMoniker": "Shop.xaml.cs",
@@ -243,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Game.cs",
               "DocumentMoniker": "F:\\midterm\\Tre-Midterm255\\Midterm\\Models\\Game.cs",
               "RelativeDocumentMoniker": "Models\\Game.cs",
@@ -255,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "F:\\midterm\\Tre-Midterm255\\Midterm\\MauiProgram.cs",
               "RelativeDocumentMoniker": "MauiProgram.cs",
@@ -267,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Requiem.xaml",
               "DocumentMoniker": "F:\\midterm\\Tre-Midterm255\\Midterm\\Requiem.xaml",
               "RelativeDocumentMoniker": "Requiem.xaml",

@@ -26,9 +26,14 @@
                    FontAttributes="Bold"
                    TextColor="Red"
                    HorizontalOptions="Center" />
+        <Entry x:Name="QuantityEntry"
+               Placeholder="Enter quantity"
+               Keyboard="Numeric"
+               FontSize="16"
+               HorizontalOptions="Center" />
 
 
-            <Button Text = "Out of Stock"
+        <Button Text = "Out of Stock"
                 FontSize="20"
                 HeightRequest="56"
                 BackgroundColor="Gray"

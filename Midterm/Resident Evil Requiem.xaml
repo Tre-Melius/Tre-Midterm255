@@ -21,6 +21,11 @@
                 Text="$59.99"
                 FontSize="16"
                 HorizontalOptions="Center" />
+        <Entry x:Name="QuantityEntry"
+               Placeholder="Enter quantity"
+               Keyboard="Numeric"
+               FontSize="16"
+               HorizontalOptions="Center" />
         <Label x:Name="ResultLabel"
                    IsVisible="False"
                    FontSize="16"

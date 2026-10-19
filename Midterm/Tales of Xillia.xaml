@@ -29,6 +29,11 @@
             Text="$19.99"
             FontSize="16"
             HorizontalOptions="Center" />
+        <Entry x:Name="QuantityEntry"
+               Placeholder="Enter quantity"
+               Keyboard="Numeric"
+               FontSize="16"
+               HorizontalOptions="Center" />
         <Button Text="Add to Cart"
                 FontSize="20"
                 HeightRequest="56"
