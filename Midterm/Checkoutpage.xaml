@@ -3,29 +3,31 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Midterm.Checkoutpage"
              Title="Checkoutpage">
-    <Grid
-        RowDefinitions="Auto, Auto, Auto"
-        ColumnDefinitions="*, *">
-        <Label
-            Grid.Row="0"
-            Grid.ColumnSpan="2"
-            Text="Checkout Page"
-            FontSize="24"
-            FontAttributes="Bold"
-            HorizontalOptions="Center" />
-        <Label
-            Grid.Row="1"
-            Grid.ColumnSpan="2"
-            Text="Thank you for your purchase!"
-            FontSize="16"
-            HorizontalOptions="Center" />
-        <Button
-            Grid.Row="2"
-            Grid.ColumnSpan="2"
-            Text="Back to Home"
-            FontSize="20"
-            HeightRequest="56"
-            BackgroundColor="#512BD4"
-            Clicked="OnBackToHomeClicked" />
-    </Grid>
+    <ScrollView>
+        <VerticalStackLayout>
+            <Label
+                Text="Checkout Page"
+                FontSize="24"
+                FontAttributes="Bold"
+                HorizontalOptions="Center" />
+
+            <CollectionView
+                x:Name="CartListView">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <HorizontalStackLayout>
+                            <Label Text="{Binding .}" FontSize="16" />
+                        </HorizontalStackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+            <Label
+                Text =" Total: $0.00"
+                x:Name="TotalLabel"/>
+            <Button
+                x:Name="CheckoutButton"
+                Text="Checkout"
+                Clicked="CheckoutButton_Clicked"/>
+        </VerticalStackLayout>
+    </ScrollView>
 </ContentPage>

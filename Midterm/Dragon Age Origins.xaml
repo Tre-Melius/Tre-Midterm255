@@ -38,6 +38,6 @@
                 HeightRequest="56"
                 BackgroundColor="Gray"
                 TextColor="White"
-                IsEnabled="False" />
+                IsEnabled="False"/>
     </VerticalStackLayout>
 </ContentPage>
